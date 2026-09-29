@@ -1,0 +1,4 @@
+python-dotenv
+requests
+typesafe-sdk
+openai
